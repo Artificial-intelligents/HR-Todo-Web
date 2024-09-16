@@ -28,3 +28,19 @@
     box-shadow: 0 0 0 .1rem #28a745;
     outline: none !important;
   }
+  .jumbotron{
+    background-color: #28a74559;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #paragraph{
+    font-size: 18px;
+    font-weight: 600;
+    color: dimgray;
+  }
+  .guide{
+    font-size: 14px;
+    color: #28a745;
+    margin: 0 10px;
+  }
